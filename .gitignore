@@ -1,0 +1,11 @@
+# API 키 등 비밀 설정 — GitHub에 올리지 않습니다.
+.env
+.env.local
+.env.*.local
+
+# 설치·빌드 결과물
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
